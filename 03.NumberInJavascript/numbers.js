@@ -9,3 +9,6 @@ console.log(parseInt(stringASaNumber));
 console.log(Number.parseFloat(integerNumber));
 var numberConstractor = Number("22")
 console.log(numberConstractor);
+// max value cheacker
+console.log(Number.MAX_VALUE); //this amount off value can store in javascript
+console.log(Number.MIN_VALUE); //this is the most minimal value of a number storage
