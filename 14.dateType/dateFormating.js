@@ -1,0 +1,19 @@
+var date = new Date()
+console.log(date);
+console.log(date.toDateString());
+console.log(date.toLocaleDateString());
+console.log(date.toLocaleString());
+console.log(date.toLocaleTimeString());
+console.log(date.toString());
+console.log(date.toUTCString());
+console.log(date.getDate());
+console.log(date.getHours());
+console.log(date.getFullYear());
+console.log(date.getMilliseconds());
+console.log(date.getDay());
+console.log(date.getMinutes());
+console.log(date.getMonth());
+console.log(date.getSeconds());
+console.log(date.getTimezoneOffset());
+console.log(date.getUTCSeconds());
+console.log(date.getUTCDate());

@@ -1,0 +1,5 @@
+// logical operator
+// || && !
+
+// Bitwise Operator
+// & | ~ ^ << >>
