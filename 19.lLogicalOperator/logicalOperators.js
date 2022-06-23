@@ -27,3 +27,4 @@ if (a > b || c > d) {
 var notCheacker = a > b;
 console.log(notCheacker);
 console.log(!notCheacker);
+console.log(!!notCheacker);
