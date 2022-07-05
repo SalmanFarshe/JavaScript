@@ -1,0 +1,10 @@
+var traversing_array = [
+  1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+];
+var sum = 0;
+for (var i = 0; i < traversing_array.length; i++) {
+  if (traversing_array[i] % 2 === 0) {
+    sum += traversing_array[i];
+  }
+}
+console.log(sum);
